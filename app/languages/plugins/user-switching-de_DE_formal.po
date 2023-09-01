@@ -1,0 +1,77 @@
+# Translation of Plugins - User Switching - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - User Switching - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-30 12:28:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - User Switching - Stable (latest release)\n"
+
+#: user-switching.php:828
+msgctxt "verb"
+msgid "Sponsor"
+msgstr "Unterstützen"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/user-switching/"
+msgstr "https://de.wordpress.org/plugins/user-switching/"
+
+#. Author URI of the plugin
+msgid "https://github.com/johnbillion/user-switching/graphs/contributors"
+msgstr "https://github.com/johnbillion/user-switching/graphs/contributors"
+
+#. Author of the plugin
+msgid "John Blackbourn & contributors"
+msgstr "John Blackbourn und Mitwirkende"
+
+#. Description of the plugin
+msgid "Instant switching between user accounts in WordPress"
+msgstr "Direkter Wechsel zwischen Benutzerkonten in WordPress"
+
+#. Plugin Name of the plugin
+msgid "User Switching"
+msgstr "User Switching"
+
+#. Translators: "switch off" means to temporarily log out
+#: user-switching.php:569
+msgid "Switch Off"
+msgstr "Abmeldung simulieren"
+
+#. Translators: 1: user display name; 2: username;
+#: user-switching.php:959
+msgid "Switched back to %1$s (%2$s)."
+msgstr "Zurückgewechselt zu %1$s (%2$s)."
+
+#. Translators: 1: user display name; 2: username;
+#: user-switching.php:938
+msgid "Switch back to %1$s (%2$s)"
+msgstr "Zurückwechseln zu %1$s (%2$s)"
+
+#. Translators: 1: user display name; 2: username;
+#: user-switching.php:917
+msgid "Switched to %1$s (%2$s)."
+msgstr "Gewechselt zu %1$s (%2$s)."
+
+#. Translators: "switch off" means to temporarily log out
+#: user-switching.php:264 user-switching.php:285
+msgid "Could not switch off."
+msgstr "Eine Abmeldung konnte nicht simuliert werden."
+
+#: user-switching.php:188 user-switching.php:213 user-switching.php:222
+#: user-switching.php:227 user-switching.php:255
+msgid "Could not switch users."
+msgstr "Benutzer konnten nicht gewechselt werden."
+
+#: user-switching.php:134 user-switching.php:588 user-switching.php:737
+#: user-switching.php:777 user-switching.php:808 user-switching.php:1048
+msgid "Switch&nbsp;To"
+msgstr "Zu diesem Benutzer wechseln"
+
+#: user-switching.php:130
+msgctxt "User Switching title on user profile screen"
+msgid "User Switching"
+msgstr "Benutzerwechsel"

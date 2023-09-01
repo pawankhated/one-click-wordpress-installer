@@ -1,0 +1,41 @@
+# Translation of Plugins - clickskeks.at Cookiebanner - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - clickskeks.at Cookiebanner - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-16 13:54:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - clickskeks.at Cookiebanner - Development (trunk)\n"
+
+#: index.php:128
+msgid "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+msgstr "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+
+#: index.php:102
+msgid "clickskeks - gemeinsam gegen DSGVO Strafen"
+msgstr "clickskeks - gemeinsam gegen DSGVO Strafen"
+
+#: index.php:109
+msgid "Damit deine Website DSGVO-konform ist, musst du die Cookies auch in deiner Datenschutzerklärung anführen. <br/>Gehe dazu auf deine Datenschutz-Seite zu dem Abschnitt \"Cookies\" und füge hier den Shortcode <b style=\"color:#000;\">[clickskeks]</b> ein. Speichere die Änderungen und schon werden deine gesetzten Cookies als Tabelle angezeigt."
+msgstr "Damit Ihre Website DSGVO-konform ist, müssen Sie die Cookies auch in Ihrer Datenschutzerklärung anführen. <br/>Gehen Sie dazu auf Ihre Datenschutz-Seite zu dem Abschnitt \"Cookies\" und fügen hier den Shortcode <b style=\"color:#000;\">[clickskeks]</b> ein. Speichern Sie die Änderungen und schon werden Ihre gesetzten Cookies als Tabelle angezeigt."
+
+#: index.php:108
+msgid "Cookie-Einbindung in deine Datenschutzerklärung"
+msgstr "Cookie-Einbindung in Ihre Datenschutzerklärung"
+
+#: index.php:106
+msgid "Bei Fragen wende dich bitte an <a href=\"mailto:hallo@clickskeks.at\">hallo@clickskeks.at</a>"
+msgstr "Bei Fragen wenden Sie sich bitte an <a href=\"mailto:hallo@clickskeks.at\">hallo@clickskeks.at</a>"
+
+#: index.php:105
+msgid "Deinen 30 Tage Test kannst du auf <a href=\"https://www.clickskeks.at/\">clickskeks.at</a> bekommen!"
+msgstr "Ihren 30 Tage Test können Sie auf <a href=\"https://www.clickskeks.at/\">clickskeks.at</a> bekommen!"
+
+#. Plugin Name of the plugin
+#. Description of the plugin
+msgid "Clickskeks"
+msgstr "Clickskeks"

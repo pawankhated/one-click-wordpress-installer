@@ -1,0 +1,52 @@
+@font-face {
+    font-family: josefin;
+    src: url("./fonts/josefin.ttf");
+}
+
+@font-face {
+    font-family: notosans;
+    src: url("./fonts/notosans.ttf");
+}
+
+.dashicons-keks {
+    background-image: url("./img/keks.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 21px 21px;
+}
+
+.clickskeks * {
+    font-family: notosans;
+}
+
+.clickskeks .keks-btn {
+    font-family: josefin;
+    background: #ea3949;
+    border-radius: 999px;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 5px 20px 5px;
+    border: 2px solid transparent;
+    transition: 300ms;
+}
+
+.clickskeks .keks-btn:hover {
+    cursor:pointer;
+    border: 2px solid #ea3949;
+    background: #FFF;
+    color: #ea3949;
+}
+
+input[type=text] {
+    margin: 2px 0px;
+}
+
+input[type=text]:focus {
+    border-color: #ea3949 !important;
+    box-shadow: 0 0 0 1px #e53847;
+}
+
+input[type=submit]:focus {
+    outline: none;
+}

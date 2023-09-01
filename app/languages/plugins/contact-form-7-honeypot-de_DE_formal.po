@@ -1,0 +1,62 @@
+# Translation of Plugins - Honeypot for Contact Form 7 - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Honeypot for Contact Form 7 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-05 16:19:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Honeypot for Contact Form 7 - Development (trunk)\n"
+
+#. Plugin Name of the plugin
+#: includes/admin.php:153 includes/admin.php:193
+msgid "Honeypot for Contact Form 7"
+msgstr "Honeypot for Contact Form 7"
+
+#: includes/admin.php:280
+msgid "If checked, the accessibility label will not be generated. This is not recommended, but may improve spam blocking. If you're unsure, leave this unchecked."
+msgstr "Wenn diese Option aktiviert ist, wird das Barrierefreiheits-Label nicht generiert. Dies wird nicht empfohlen, kann aber den Spamschutz verbessern. Wenn Sie unsicher sind, lassen Sie es abgewählt."
+
+#. translators: %s: Link to Contact Form 7 plugin page.
+#: includes/admin.php:39
+msgid "%s must be installed and activated for the CF7 Honeypot plugin to work"
+msgstr "%s muss installiert und aktiviert sein, damit CF7 Honeypot funktioniert"
+
+#: includes/admin.php:247 includes/honeypot4cf7.php:55
+msgid "Please leave this field empty."
+msgstr "Bitte lassen Sie dieses Feld leer."
+
+#: includes/admin.php:154 includes/honeypot4cf7.php:223
+msgid "Honeypot"
+msgstr "Honeypot"
+
+#. Plugin URI of the plugin
+msgid "http://www.nocean.ca/plugins/honeypot-module-for-contact-form-7-wordpress-plugin/"
+msgstr "http://www.nocean.ca/plugins/honeypot-module-for-contact-form-7-wordpress-plugin/"
+
+#. Description of the plugin
+msgid "Add honeypot anti-spam functionality to the popular Contact Form 7 plugin."
+msgstr "Erweitert das beliebte Contact Form 7 Plugin um eine Honeypot Anti-Spam Funktion."
+
+#. Author of the plugin
+msgid "Nocean"
+msgstr "Nocean"
+
+#. Author URI of the plugin
+msgid "http://www.nocean.ca"
+msgstr "http://www.nocean.ca"
+
+#: includes/honeypot4cf7.php:248
+msgid "Name"
+msgstr "\tName"
+
+#: includes/honeypot4cf7.php:345
+msgid "Insert Tag"
+msgstr "Schlagwort einfügen"
+
+#: includes/honeypot4cf7.php:228
+msgid "Generate a form-tag for a spam-stopping honeypot field. For more details, see %s."
+msgstr "Generiert ein Formular-Tag als Honeypot-Feld gegen Spam. Für weitere Informationen, betrachten Sie %s."

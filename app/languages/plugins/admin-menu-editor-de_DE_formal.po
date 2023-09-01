@@ -1,0 +1,48 @@
+# Translation of Plugins - Admin Menu Editor - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Admin Menu Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-30 18:44:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Admin Menu Editor - Stable (latest release)\n"
+
+#: modules/actor-selector/actor-selector.php:48
+msgid "You don't have permission to use Admin Menu Editor Pro."
+msgstr "Sie haben keine Berechtigung Admin Menu Editor Pro zu verwenden."
+
+#: modules/actor-selector/actor-selector.php:45
+msgid "Access denied. Invalid nonce."
+msgstr "Zugriff verweigert. Ungültiger Nonce."
+
+#: includes/shadow_plugin_framework.php:304
+msgid "Settings"
+msgstr "﻿Einstellungen"
+
+#: includes/menu-editor-core.php:3087
+msgid "Settings saved."
+msgstr "Die Einstellungen wurden gespeichert."
+
+#. Author URI of the plugin
+msgid "http://w-shadow.com/blog/"
+msgstr "http://w-shadow.com/blog/"
+
+#. Author of the plugin
+msgid "Janis Elsts"
+msgstr "Janis Elsts"
+
+#. Description of the plugin
+msgid "Lets you directly edit the WordPress admin menu. You can re-order, hide or rename existing menus, add custom menus and more."
+msgstr "Ermöglicht Ihnen die direkte Bearbeitung des WordPress-Administrationsmenüs. Sie können bestehende Menüs neu anordnen, ausblenden oder umbenennen, individuelle Menüs hinzufügen und mehr."
+
+#. Plugin URI of the plugin
+msgid "http://w-shadow.com/blog/2008/12/20/admin-menu-editor-for-wordpress/"
+msgstr "http://w-shadow.com/blog/2008/12/20/admin-menu-editor-for-wordpress/"
+
+#. Plugin Name of the plugin
+msgid "Admin Menu Editor"
+msgstr "Admin Menu Editor"
